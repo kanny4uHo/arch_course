@@ -9,7 +9,7 @@
 
 **MAU:** [95 млн человек](https://www.forbes.ru/tekhnologii/507878-cislo-pol-zovatelej-telegram-v-rossii-vyroslo-do-85-mln-celovek)
 
-### Ключевая функциональность:
+## Ключевая функциональность:
 - Обмен сообщениями в чате
 - Отправка картинок
 - Список чатов
@@ -18,8 +18,10 @@
 - Блокировка контактов
 - Аватарки
 - Отправка/получение уведомлений
+- Авторизация по номеру телефона
 
 ## Схема базы данных
+https://drive.google.com/file/d/1rwpju4f7edOte-3eziwkX9d5uhmUWqvO/view?usp=sharing
 
 ## API
 
